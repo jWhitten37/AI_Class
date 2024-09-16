@@ -117,4 +117,4 @@ def update_item(orig_item, new_item, container, multi=True):
                     if x == orig_item:
                         new_tuple[new_tuple.index[x]] = new_item
             else:
-                new
+                change
